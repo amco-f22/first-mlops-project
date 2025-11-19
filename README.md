@@ -62,8 +62,14 @@ docker run -p 8000:8000 diabetes-prediction-model
 kubectl apply -f diabetes-prediction-model-deployment.yaml
 ```
 ---
-## 🙌 Reference
- [GitHub](https://github.com/iam-veeramalla).
+## 🔗 References
+
+- [Pima Indians Diabetes Dataset (Kaggle)](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+- [FastAPI Documentation](https://fastapi.tiangolo.com/)
+- [Docker Documentation](https://docs.docker.com/)
+- [Kubernetes Documentation](https://kubernetes.io/docs/)
+- [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
+
 ---
 ## 📢 License
 Apache 2.0

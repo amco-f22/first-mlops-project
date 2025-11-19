@@ -62,9 +62,8 @@ docker run -p 8000:8000 diabetes-prediction-model
 kubectl apply -f diabetes-prediction-model-deployment.yaml
 ```
 ---
-## 🙌 Credits
-Created by **Abhishek Veeramalla**  
-For more DevOps and MLOps resources, follow the author on [GitHub](https://github.com/iam-veeramalla).
+## 🙌 Reference
+ [GitHub](https://github.com/iam-veeramalla).
 ---
 ## 📢 License
 Apache 2.0
